@@ -41,7 +41,6 @@ The target variable indicates the presence or absence of heart disease.
 How to Use
 
 Clone the Repository
-git clone https://github.com/pranavprasad7/Heart-Disease-Prediction.git
 cd Heart-Disease-Prediction
 Install Dependencies
 Ensure you have Python 3 installed, then install the required libraries:
